@@ -12,7 +12,9 @@ It's easy to use, and the idea of this project was born thinking to the **Etch &
 
 My aim was to build also a **ZY plotter** and to drive it directly with this interface (like an Etch & Sketch 2.0 ). Maybe it will be ready for the MFR 14.
 
-In the meanwhile, i realized an application for pc and Android that replicates the Etch & Sketch beaviour, and that you can play with using this new Joypad .
+In the meanwhile, i realized an application for pc and Android (using **Processing** and **AppInventor**) that replicates the Etch & Sketch beaviour, and that you can play with using this new Joypad .
+*The software source will be available soon!*
+
 I designed also the case of this joypad and print it with my prusa i2.
 Here a few photos of the backstage: http://bit.ly/JoyPad_photos
 
@@ -33,6 +35,11 @@ you can use any cheap HC-0X module
 you need this to power Arduino at 5v using only 2 AA batteries
 
 **1x Battery Holder** (x 2AA batteries) - you can also print it
+
+To learn more on this kind of bluetooth module, you can read this guide:
+http://forum.arduino.cc/index.php?topic=104903.0
+
+*Electronic schema will be available soon!*
 
 
 ### Plastic parts

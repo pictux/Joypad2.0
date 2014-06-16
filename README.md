@@ -2,7 +2,9 @@
 
 # JOYPAD
 
+
 ![joypad][1]
+
 
 In this projetc i'm using a couple of old harddisk motor to build a new controller generation :) 
 In this controller you have 2 rotative encoder (the 2 old harddisk brushelss motors), an Arduino, and a Bluetooth module.
@@ -41,17 +43,23 @@ You can find the source files (OpenSCAD) and STL here:
 http://www.thingiverse.com/thing:364735
 
 1x case
+
 ![enter image description here][2]
+
 remember to print it using:
 infill density=0, top solid layers=0, perimeters=4
  
 1x mask
+
 ![enter image description here][3]
+
 
 2x knob
 Here you can choose you preferred version, or edit the parametric source file.
 I like this:
+
 ![enter image description here][4]
+
 
 
   [1]: https://lh3.googleusercontent.com/-KqerylRjUac/U54qSr1es1I/AAAAAAAAQOQ/-PJLQkZsb5I/s1152/IMAG4746.jpg

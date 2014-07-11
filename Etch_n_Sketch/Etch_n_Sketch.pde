@@ -3,8 +3,6 @@
 Mirco Piccin aka Pictux Pitusso
 Use JoyPad connected via bluetooth to drive a continuos line, 
 as happens in a real Etch&Sketch 
-
-Based on Topics/Drawing/ContinuosLines example 
 */
 
 import processing.serial.*;

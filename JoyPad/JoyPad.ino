@@ -95,8 +95,8 @@ void loop() {
   if (currentMillis - previousSerialMillis >= serialInterval) {
     previousSerialMillis = currentMillis;
     
-    actualXusable = actualX > 0 ? actualX : 0;
-    actualYusable = actualY > 0 ? actualY : 0;
+    int actualXusable = actualX > 0 ? actualX : 0;
+    int actualYusable = actualY > 0 ? actualY : 0;
     
     Serial.print(actualXusable);
     Serial.print(";");
